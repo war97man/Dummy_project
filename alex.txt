@@ -1,2 +1,6 @@
 ALEXXX a FOST AICI
+<<<<<<< HEAD
 fiasfsoafsajf
+=======
+nicolae guta
+>>>>>>> 7fb137bb647c086dc07e6c8ecf5d9af95b72705b
